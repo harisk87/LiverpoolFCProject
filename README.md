@@ -1,6 +1,6 @@
 Created: 06/16/2016  Hari
 
-# DSJobsWebScaper
+# LiverpoolFCProject
 This project is an analysis of Liverpool's home performances over the past century. The goal is to quantify whether Anfield was really the "fortress" it was known as, with respect to other top clubs. 
 
 All data is available freely at https://github.com/jalapic/engsoccerdata
